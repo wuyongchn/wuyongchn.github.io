@@ -13,7 +13,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/wuyongchn)
+* GitHub：[wuyongchn](https://github.com/wuyongchn)
 * email：wuyongchn@126.com
 
 {% include comments.html %}
